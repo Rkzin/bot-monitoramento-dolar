@@ -19,4 +19,5 @@ Demonstrar a aplicação prática de Python para Engenharia de Dados básica:
 O script roda em loop infinito, verificando a cotação a cada 10 segundos. Se o arquivo Excel não existir, ele cria. Se já existir, ele adiciona a nova linha sem apagar o histórico anterior.
 
 ## 📸 Resultado
-*(Aqui você vai colocar a imagem do Excel que você me mandou)*
+
+[Resultado no Excel](https://github.com/Rkzin/bot-monitoramento-dolar/blob/main/image.png?raw=true)
