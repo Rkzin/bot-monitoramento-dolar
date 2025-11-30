@@ -20,4 +20,4 @@ O script roda em loop infinito, verificando a cotação a cada 10 segundos. Se o
 
 ## 📸 Resultado
 
-[Resultado no Excel](https://github.com/Rkzin/bot-monitoramento-dolar/blob/main/image.png?raw=true)
+[Resultado no Excel]([https://github.com/Rkzin/bot-monitoramento-dolar/blob/main/image.png?raw=true](https://github.com/Rkzin/bot-monitoramento-dolar/blob/a9c5f929421c0840f2f059b501a41a7e7e3ecb20/Excel%20resultado.png))
